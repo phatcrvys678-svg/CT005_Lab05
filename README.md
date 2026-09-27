@@ -1,7 +1,7 @@
 # THỰC HÀNH LAB 05: TẠO, QUẢN LÝ VÀ CHIA SẺ NỘI DUNG SỐ
 - **Họ và tên:** Trần Phát
 - **Mã số sinh viên:** B2605824
-- **Lớp:** [DI26D6A1]
+- **Lớp** [DI26D6A1]
 - **Môn học:** CT005 - Nền tảng công nghệ số
 
 ## DANH SÁCH FILE SẢN PHẨM NỘP BÀI:
